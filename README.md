@@ -1,5 +1,5 @@
 # WebChat_Demo
-Bản chính thức : 
+Bản chính thức : [chatty](https://github.com/smoothkt4951/chatty)
 ## Demo cho Xây dựng trang web chat trực tuyến bằng cách sử dụng giao thức Web Socket. 
 Trang web cho phép người dùng gửi tin nhắn và gửi tập tin theo thời gian thực. Bản demo này chỉ demo cách thức hoạt động của SocketIO trong Express.
 Cụ thể, bản demo có chức năng quản lý danh sách các cuộc trò chuyện. Sau khi đăng nhập vào trang web, người dùng được chuyển hướng đến trang chủ,
